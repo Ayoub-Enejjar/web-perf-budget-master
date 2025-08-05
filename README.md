@@ -8,6 +8,7 @@ A lightweight, modular web app designed to help developers monitor and enforce p
 - **Modular Structure**: Clean separation of concerns using HTML, CSS, and JS.
 - **Responsive Design**: Optimized for various screen sizes.
 - **Dark Mode Ready**: Easily extendable for theme toggling.
+- **The object**: analyse and solve problemes.
 
 ## 📁 Project Structure
 
